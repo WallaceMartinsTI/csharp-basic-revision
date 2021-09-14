@@ -1,0 +1,13 @@
+/home/wallacexp159/Área de Trabalho/csharp-examples-master/MinhaRevisao/Revisao/obj/Debug/netcoreapp3.1/Revisao.csprojAssemblyReference.cache
+/home/wallacexp159/Área de Trabalho/csharp-examples-master/MinhaRevisao/Revisao/obj/Debug/netcoreapp3.1/Revisao.AssemblyInfoInputs.cache
+/home/wallacexp159/Área de Trabalho/csharp-examples-master/MinhaRevisao/Revisao/obj/Debug/netcoreapp3.1/Revisao.AssemblyInfo.cs
+/home/wallacexp159/Área de Trabalho/csharp-examples-master/MinhaRevisao/Revisao/obj/Debug/netcoreapp3.1/Revisao.csproj.CoreCompileInputs.cache
+/home/wallacexp159/Área de Trabalho/csharp-examples-master/MinhaRevisao/Revisao/bin/Debug/netcoreapp3.1/Revisao
+/home/wallacexp159/Área de Trabalho/csharp-examples-master/MinhaRevisao/Revisao/bin/Debug/netcoreapp3.1/Revisao.deps.json
+/home/wallacexp159/Área de Trabalho/csharp-examples-master/MinhaRevisao/Revisao/bin/Debug/netcoreapp3.1/Revisao.runtimeconfig.json
+/home/wallacexp159/Área de Trabalho/csharp-examples-master/MinhaRevisao/Revisao/bin/Debug/netcoreapp3.1/Revisao.runtimeconfig.dev.json
+/home/wallacexp159/Área de Trabalho/csharp-examples-master/MinhaRevisao/Revisao/bin/Debug/netcoreapp3.1/Revisao.dll
+/home/wallacexp159/Área de Trabalho/csharp-examples-master/MinhaRevisao/Revisao/bin/Debug/netcoreapp3.1/Revisao.pdb
+/home/wallacexp159/Área de Trabalho/csharp-examples-master/MinhaRevisao/Revisao/obj/Debug/netcoreapp3.1/Revisao.dll
+/home/wallacexp159/Área de Trabalho/csharp-examples-master/MinhaRevisao/Revisao/obj/Debug/netcoreapp3.1/Revisao.pdb
+/home/wallacexp159/Área de Trabalho/csharp-examples-master/MinhaRevisao/Revisao/obj/Debug/netcoreapp3.1/Revisao.genruntimeconfig.cache
